@@ -13,6 +13,7 @@
 		C53F147828169EDA00DA7F07 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C53F147728169EDA00DA7F07 /* Preview Assets.xcassets */; };
 		C53F148028169FD300DA7F07 /* ImplicitAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F147F28169FD300DA7F07 /* ImplicitAnimations.swift */; };
 		C53F1482281715E100DA7F07 /* CustomizingAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F1481281715E100DA7F07 /* CustomizingAnimations.swift */; };
+		C53F148428171EDD00DA7F07 /* AnimatingBindings.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F148328171EDD00DA7F07 /* AnimatingBindings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		C53F147728169EDA00DA7F07 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C53F147F28169FD300DA7F07 /* ImplicitAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplicitAnimations.swift; sourceTree = "<group>"; };
 		C53F1481281715E100DA7F07 /* CustomizingAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizingAnimations.swift; sourceTree = "<group>"; };
+		C53F148328171EDD00DA7F07 /* AnimatingBindings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingBindings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				C53F147F28169FD300DA7F07 /* ImplicitAnimations.swift */,
 				C53F1481281715E100DA7F07 /* CustomizingAnimations.swift */,
+				C53F148328171EDD00DA7F07 /* AnimatingBindings.swift */,
 			);
 			path = "Day 32";
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				C53F1482281715E100DA7F07 /* CustomizingAnimations.swift in Sources */,
 				C53F147328169ED900DA7F07 /* ContentView.swift in Sources */,
 				C53F147128169ED900DA7F07 /* AnimationsApp.swift in Sources */,
+				C53F148428171EDD00DA7F07 /* AnimatingBindings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
