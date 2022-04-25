@@ -11,6 +11,7 @@
 		C53F147328169ED900DA7F07 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F147228169ED900DA7F07 /* ContentView.swift */; };
 		C53F147528169EDA00DA7F07 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C53F147428169EDA00DA7F07 /* Assets.xcassets */; };
 		C53F147828169EDA00DA7F07 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C53F147728169EDA00DA7F07 /* Preview Assets.xcassets */; };
+		C53F148028169FD300DA7F07 /* ImplicitAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F147F28169FD300DA7F07 /* ImplicitAnimations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C53F147228169ED900DA7F07 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C53F147428169EDA00DA7F07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C53F147728169EDA00DA7F07 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C53F147F28169FD300DA7F07 /* ImplicitAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplicitAnimations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				C53F147228169ED900DA7F07 /* ContentView.swift */,
 				C53F147428169EDA00DA7F07 /* Assets.xcassets */,
 				C53F147628169EDA00DA7F07 /* Preview Content */,
+				C53F147E28169EF400DA7F07 /* Day 32 */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
@@ -65,6 +68,14 @@
 				C53F147728169EDA00DA7F07 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C53F147E28169EF400DA7F07 /* Day 32 */ = {
+			isa = PBXGroup;
+			children = (
+				C53F147F28169FD300DA7F07 /* ImplicitAnimations.swift */,
+			);
+			path = "Day 32";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C53F148028169FD300DA7F07 /* ImplicitAnimations.swift in Sources */,
 				C53F147328169ED900DA7F07 /* ContentView.swift in Sources */,
 				C53F147128169ED900DA7F07 /* AnimationsApp.swift in Sources */,
 			);
