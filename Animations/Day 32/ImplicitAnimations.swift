@@ -1,5 +1,6 @@
 /// SOURCE:
 /// https://www.hackingwithswift.com/books/ios-swiftui/creating-implicit-animations
+/// implicit animations always need to watch a particular value.
 
 import SwiftUI
 
@@ -10,6 +11,9 @@ struct ImplicitAnimations: View {
     // MARK: - STATIC PROPERTIES
     // MARK: - PROPERTY WRAPPERS
     @State private var animationAmount: Double = 1.00
+    /// OLIVIER: `animationAmount` needs to be set to `1`
+    /// because otherwise .scaleEffect would be set to `0`
+    /// which would make the graphic dissappear.
     
     
     

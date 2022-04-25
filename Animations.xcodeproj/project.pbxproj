@@ -12,6 +12,7 @@
 		C53F147528169EDA00DA7F07 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C53F147428169EDA00DA7F07 /* Assets.xcassets */; };
 		C53F147828169EDA00DA7F07 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C53F147728169EDA00DA7F07 /* Preview Assets.xcassets */; };
 		C53F148028169FD300DA7F07 /* ImplicitAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F147F28169FD300DA7F07 /* ImplicitAnimations.swift */; };
+		C53F1482281715E100DA7F07 /* CustomizingAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F1481281715E100DA7F07 /* CustomizingAnimations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		C53F147428169EDA00DA7F07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C53F147728169EDA00DA7F07 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C53F147F28169FD300DA7F07 /* ImplicitAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplicitAnimations.swift; sourceTree = "<group>"; };
+		C53F1481281715E100DA7F07 /* CustomizingAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizingAnimations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				C53F147F28169FD300DA7F07 /* ImplicitAnimations.swift */,
+				C53F1481281715E100DA7F07 /* CustomizingAnimations.swift */,
 			);
 			path = "Day 32";
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C53F148028169FD300DA7F07 /* ImplicitAnimations.swift in Sources */,
+				C53F1482281715E100DA7F07 /* CustomizingAnimations.swift in Sources */,
 				C53F147328169ED900DA7F07 /* ContentView.swift in Sources */,
 				C53F147128169ED900DA7F07 /* AnimationsApp.swift in Sources */,
 			);
