@@ -15,6 +15,7 @@
 		C53F1482281715E100DA7F07 /* CustomizingAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F1481281715E100DA7F07 /* CustomizingAnimations.swift */; };
 		C53F148428171EDD00DA7F07 /* AnimatingBindings.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F148328171EDD00DA7F07 /* AnimatingBindings.swift */; };
 		C53F14862817261E00DA7F07 /* CreatingExplicitAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F14852817261E00DA7F07 /* CreatingExplicitAnimations.swift */; };
+		C53F14892817E77E00DA7F07 /* AnimationStackControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F14882817E77E00DA7F07 /* AnimationStackControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		C53F1481281715E100DA7F07 /* CustomizingAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizingAnimations.swift; sourceTree = "<group>"; };
 		C53F148328171EDD00DA7F07 /* AnimatingBindings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingBindings.swift; sourceTree = "<group>"; };
 		C53F14852817261E00DA7F07 /* CreatingExplicitAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatingExplicitAnimations.swift; sourceTree = "<group>"; };
+		C53F14882817E77E00DA7F07 /* AnimationStackControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationStackControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				C53F147428169EDA00DA7F07 /* Assets.xcassets */,
 				C53F147628169EDA00DA7F07 /* Preview Content */,
 				C53F147E28169EF400DA7F07 /* Day 32 */,
+				C53F14872817E04900DA7F07 /* Day 33 */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
@@ -85,6 +88,14 @@
 				C53F14852817261E00DA7F07 /* CreatingExplicitAnimations.swift */,
 			);
 			path = "Day 32";
+			sourceTree = "<group>";
+		};
+		C53F14872817E04900DA7F07 /* Day 33 */ = {
+			isa = PBXGroup;
+			children = (
+				C53F14882817E77E00DA7F07 /* AnimationStackControl.swift */,
+			);
+			path = "Day 33";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +174,7 @@
 				C53F147328169ED900DA7F07 /* ContentView.swift in Sources */,
 				C53F147128169ED900DA7F07 /* AnimationsApp.swift in Sources */,
 				C53F148428171EDD00DA7F07 /* AnimatingBindings.swift in Sources */,
+				C53F14892817E77E00DA7F07 /* AnimationStackControl.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

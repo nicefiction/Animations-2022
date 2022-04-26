@@ -30,7 +30,8 @@ struct ImplicitAnimations: View {
         .clipShape(Circle())
         .blur(radius: (animationAmount - 1) * 3)
         .scaleEffect(animationAmount)
-        .animation(.default, value: animationAmount)
+        .animation(.default,
+                   value: animationAmount)
         
         
         Button(action: {
