@@ -5,7 +5,7 @@ import SwiftUI
 
 
 
-struct HelloSwiftUI: View {
+struct CombiningGestures: View {
     
     // MARK: - STATIC PROPERTIES
     // MARK: - PROPERTY WRAPPERS
@@ -65,6 +65,6 @@ struct HelloSwiftUI_Previews: PreviewProvider {
     // MARK: - COMPUTED PROPERTIES
     static var previews: some View {
         
-        HelloSwiftUI()
+        CombiningGestures()
     }
 }
