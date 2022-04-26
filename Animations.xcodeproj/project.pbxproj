@@ -19,6 +19,7 @@
 		C53F148B2817ED1E00DA7F07 /* AnimatingGestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F148A2817ED1E00DA7F07 /* AnimatingGestures.swift */; };
 		C53F148D281825ED00DA7F07 /* UsingTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F148C281825ED00DA7F07 /* UsingTransitions.swift */; };
 		C53F148F2818343700DA7F07 /* CombiningGestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F148E2818343700DA7F07 /* CombiningGestures.swift */; };
+		C53F149128184B7F00DA7F07 /* CustomTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53F149028184B7F00DA7F07 /* CustomTransitions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		C53F148A2817ED1E00DA7F07 /* AnimatingGestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingGestures.swift; sourceTree = "<group>"; };
 		C53F148C281825ED00DA7F07 /* UsingTransitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsingTransitions.swift; sourceTree = "<group>"; };
 		C53F148E2818343700DA7F07 /* CombiningGestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombiningGestures.swift; sourceTree = "<group>"; };
+		C53F149028184B7F00DA7F07 /* CustomTransitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTransitions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				C53F148A2817ED1E00DA7F07 /* AnimatingGestures.swift */,
 				C53F148E2818343700DA7F07 /* CombiningGestures.swift */,
 				C53F148C281825ED00DA7F07 /* UsingTransitions.swift */,
+				C53F149028184B7F00DA7F07 /* CustomTransitions.swift */,
 			);
 			path = "Day 33";
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				C53F148F2818343700DA7F07 /* CombiningGestures.swift in Sources */,
 				C53F14862817261E00DA7F07 /* CreatingExplicitAnimations.swift in Sources */,
 				C53F148D281825ED00DA7F07 /* UsingTransitions.swift in Sources */,
+				C53F149128184B7F00DA7F07 /* CustomTransitions.swift in Sources */,
 				C53F148028169FD300DA7F07 /* ImplicitAnimations.swift in Sources */,
 				C53F1482281715E100DA7F07 /* CustomizingAnimations.swift in Sources */,
 				C53F147328169ED900DA7F07 /* ContentView.swift in Sources */,
